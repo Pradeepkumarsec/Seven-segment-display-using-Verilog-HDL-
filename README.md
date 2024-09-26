@@ -57,6 +57,7 @@ module seven_segment_display (
     end
 endmodule
 
+[Screenshot 2024-09-26 140407](https://github.com/user-attachments/assets/61494843-324a-4968-a0bc-e4700349ed32)
 
 Testbench for Seven-Segment Display:
 
